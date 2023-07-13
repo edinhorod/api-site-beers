@@ -38,13 +38,6 @@ API para cadastro e autenticação de usários com geração de Bearer Token
 | :---------- | :--------- | :------------------------------------------ |
 | `userId`      | `string` | **Obrigatório**. O id do usuário |
 
-
-
-## Autores
-
-- [@edinhorod](https://github.com/edinhorod)
-
-
 ## Deploy
 
 Para rodar o projeto:
@@ -72,3 +65,6 @@ Para rodar o projeto
 ```bash
   npm run start
 ```
+## Autores
+
+- [@edinhorod](https://github.com/edinhorod)
