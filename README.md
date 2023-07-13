@@ -1,8 +1,7 @@
 
-# MyTapp Teste API
+# Beers API
 
-API de testes
-
+API para cadastro e autenticação de usários com geração de Bearer Token
 
 
 ## Documentação da API
@@ -48,9 +47,28 @@ API de testes
 
 ## Deploy
 
-Para rodar o projeto
+Para rodar o projeto:
+```bash
+  npm install
+```
+
+```
+  npx sequelize-cli db:migrate
+```
 
 ```bash
   npm run dev
 ```
 
+# Beers Site
+
+Tela de Login e consumo de api externa construída em ReactJS.
+## Deploy
+
+Para rodar o projeto
+```bash
+  npm install
+```
+```bash
+  npm run start
+```
