@@ -32,7 +32,7 @@ export function SignIn() {
   return (
     <Container>
       <Form >
-        <img src="https://raw.githubusercontent.com/myTapp/temos-vagas/master/logo_mytapp_primario.png?raw=true" alt="MyTapp" />
+        <img src="https://www.tastingtable.com/img/gallery/40-most-popular-beers-ranked-worst-to-best/l-intro-1658943990.jpg" alt="MyTapp" />
         {error && <p>{error}</p>}
         <input
           type="email"
